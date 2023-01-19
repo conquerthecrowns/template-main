@@ -1,5 +1,5 @@
 /* eslint-disable no-console */
-import { getPublishDate } from '@finsweet/ts-utils';
+import { getPublishDate } from '@conquer/ts-utils';
 
 /**
  * Greets the user by printing a message in the console.
